@@ -2,4 +2,6 @@
 -XMP:MaxApertureValue=2.0
 -EXIF:MaxApertureValue=2.0
 -EXIF:FocalLength=50
--EXIF:LensModel=Summicron-M 50mm f/2
+-EXIF:LensInfo=50 50 2 0
+-EXIF:LensMake=Leica Camera AG
+-EXIF:LensModel=Summicron-M 1:2/50
