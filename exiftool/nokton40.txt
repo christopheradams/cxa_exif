@@ -2,4 +2,6 @@
 -XMP:MaxApertureValue=1.4
 -EXIF:MaxApertureValue=1.4
 -EXIF:FocalLength=40
--EXIF:LensModel=Voigtlander Nokton 40mm f/1.4
+-EXIF:LensInfo=40 40 1.4 0
+-EXIF:LensMake=Voigtlander
+-EXIF:LensModel=Nokton Classic 40mm f/1.4 MC
